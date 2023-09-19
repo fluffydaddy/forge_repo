@@ -1,0 +1,30 @@
+{
+	"changelog": {
+		"url": "https://raw.githubusercontent.com/fluffydaddy/forge_repo/files/1.12/changelog/repo.json",
+		"size": "72691",
+		"totalSize": "73728",
+		"sha256": "cf21eac2754ca17f6ded1bf445cf73309abd95b22cd1f6d7780c041b921463e5",
+		"md5": "2840803f772ac32a23dcc71f08d0811e"
+	},
+	"installer": {
+		"url": "https://raw.githubusercontent.com/fluffydaddy/forge_repo/files/1.12/installer/repo.json",
+		"size": "72803",
+		"totalSize": "73728",
+		"sha256": "90fc2f437eabe54cab2834eb057726ed0ad8e18bde83ad54c485d29cdab82f82",
+		"md5": "ab1dd2a814f673f8a4353a95a5c6e92c"
+	},
+	"universal": {
+		"url": "https://raw.githubusercontent.com/fluffydaddy/forge_repo/files/1.12/universal/repo.json",
+		"size": "72803",
+		"totalSize": "73728",
+		"sha256": "8cc692dd7c09e4ab305d64464ec89ec2f9c12ce25efdfcf49bee23a46a182d5f",
+		"md5": "ad1de6df1690ca3c7a2573605a222c01"
+	},
+	"mdk": {
+		"url": "https://raw.githubusercontent.com/fluffydaddy/forge_repo/files/1.12/mdk/repo.json",
+		"size": "70003",
+		"totalSize": "73728",
+		"sha256": "dd429eab42accafc5dcb2a6bcc5def520e09716fb738d880e36b418508a47e2d",
+		"md5": "c0f67fcf06154c68db0159e431b80f31"
+	},
+}
