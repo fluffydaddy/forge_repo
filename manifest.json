@@ -1,0 +1,33 @@
+{
+	"latest": "1.12.2",
+	"first": "1.12",
+	"versions": {
+		"1.12.2": {
+			"favorite": "14.23.5.2859",
+			"release": "14.23.5.2860",
+			"url": "https://raw.githubusercontent.com/fluffydaddy/forge_repo/files/1.12.2/repo.json",
+			"size": "1184",
+			"totalSize": "4096",
+			"sha256": "a62ebbbf179f8253947a155a2a4ced6c4005872fdfc477aeddafe8928e518ac5",
+			"md5": "1c57fd73f4109b4e631d192558128c59"
+		},
+		"1.12.1": {
+			"favorite": "14.22.1.2478",
+			"release": "14.22.1.2485",
+			"url": "https://raw.githubusercontent.com/fluffydaddy/forge_repo/files/1.12.1/repo.json",
+			"size": "1176",
+			"totalSize": "4096",
+			"sha256": "292879929fca350f3b731ea702bdcd786e738a2c31fb6e50c01ccf2d5e9ee0af",
+			"md5": "4fec7eeef634a11af7fa9776da001527"
+		},
+		"1.12": {
+			"favorite": "14.21.1.2387",
+			"release": "14.21.1.2443",
+			"url": "https://raw.githubusercontent.com/fluffydaddy/forge_repo/files/1.12/repo.json",
+			"size": "1168",
+			"totalSize": "4096",
+			"sha256": "29c46d30527949cbaff43bcb35147b7ba65b35e0a34d209e333c2b4d1ac2ea1e",
+			"md5": "233b30b540d7b2b336cc9e4aabcf127c"
+		}
+	}
+}
